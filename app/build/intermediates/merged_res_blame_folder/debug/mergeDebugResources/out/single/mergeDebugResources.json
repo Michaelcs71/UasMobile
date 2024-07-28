@@ -1,114 +1,210 @@
 [
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.uasmobile.app-debug-31:/layout_activity_profile.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_setting.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/setting.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_menupizza.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/menupizza.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_voucher.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/voucher.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_pizza.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/pizza.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_menuburger.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/menuburger.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_home.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_call.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/call.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_language.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/language.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_notifications.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/notifications.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_oval_background.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/oval_background.xml"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_btnlogin.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/btnlogin.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_keranjang.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/keranjang.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_search.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/search.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_buttoneditt.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/buttoneditt.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_text_background.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/text_background.xml"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_burger1.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/burger1.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_potopp.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/potopp.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_arrowback.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/arrowback.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_oval_background2.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/oval_background2.xml"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_avatar.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/avatar.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_profile.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_framesatu.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/framesatu.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_buttonget.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/buttonget.png"
+    },
+    {
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
         "merged": "com.example.uasmobile.app-debug-31:/layout_activity_home.xml.flat",
         "source": "com.example.uasmobile.app-main-33:/layout/activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_framedua.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/framedua.png"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_oval_background.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\oval_background.xml"
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_kotak.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/kotak.png"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_burger.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/burger.png"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_menuburger.png.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\menuburger.png"
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_payment.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/payment.png"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_location.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/location.png"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_burger1.png.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\burger1.png"
+        "merged": "com.example.uasmobile.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.uasmobile.app-debug-31:/font_adamina.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/font/adamina.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.uasmobile.app-debug-31:/layout_activity_registrasi.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/layout/activity_registrasi.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.uasmobile.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\xml\\backup_rules.xml"
+        "merged": "com.example.uasmobile.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\layout\\activity_main.xml"
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_text_background.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\text_background.xml"
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_addcart.png.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/addcart.png"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.uasmobile.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\layout\\activity_home.xml"
+        "merged": "com.example.uasmobile.app-debug-31:/drawable_button_rounded.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/drawable/button_rounded.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_button_rounded.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\button_rounded.xml"
-    },
-    {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_addcart.png.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\addcart.png"
-    },
-    {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_menupizza.png.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\menupizza.png"
-    },
-    {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_potopp.png.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\potopp.png"
-    },
-    {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\drawable_oval_background2.xml.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\drawable\\oval_background2.xml"
-    },
-    {
-        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.4\\com.example.uasmobile.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.uasmobile.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.uasmobile.app-main-33:/xml/backup_rules.xml"
     }
 ]
